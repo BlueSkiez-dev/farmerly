@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:farmerly/Admin/uploadItems.dart';
-import 'package:farmerly/Authentication/authenication.dart';
+import 'package:farmerly/Authentication/welcome.dart';
 import 'package:farmerly/Widgets/customTextField.dart';
 import 'package:farmerly/DialogBox/errorDialog.dart';
 import 'package:flutter/material.dart';
