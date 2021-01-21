@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790004456961",
+    "project_id": "farmerly-64afb",
+    "storage_bucket": "farmerly-64afb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790004456961:android:ddddda55a2da8da010ea00",
+        "android_client_info": {
+          "package_name": "com.clement.farmerly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790004456961-pudkn3psqri251b9ag77slpu1qed4den.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJFlId5QiGfi-b8Hj6qOMt6lqSVvMgygM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790004456961-pudkn3psqri251b9ag77slpu1qed4den.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
