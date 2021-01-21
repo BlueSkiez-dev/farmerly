@@ -1,4 +1,4 @@
-import 'package:farmerly/Authentication/welcome.dart';
+import 'package:farmerly/Authentication/welcome_screen.dart';
 import 'package:farmerly/Config/config.dart';
 import 'package:farmerly/Address/addAddress.dart';
 import 'package:farmerly/Store/Search.dart';
